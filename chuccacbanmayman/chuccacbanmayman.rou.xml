@@ -1,0 +1,5 @@
+<routes>
+  <route id="chuc cac ban may man" edges="409101012#0 409101012#1 -817085858 32577828#0 32577828#1"/>
+  
+  <flow id="chuc cac ban may man" beg="0" end="3000" route="chuc cac ban may man"  vehsPerHour="500" color="0,1,0"/> 
+</routes>
