@@ -1,0 +1,11 @@
+<routes>
+  <route id="traffic1" edges="a1 a2 a3"/>
+  <route id="traffic2" edges="b3 b2 b1"/>
+  <route id="traffic3" edges="c1 c2 c3"/>
+  <route id="traffic4" edges="d3 d2 d1"/>
+  
+  <flow id="flow1" beg="0" end="3000" route="traffic1"  vehsPerHour="1500" color="0,1,0"/> 
+  <flow id="flow2" beg="0" end="3000" route="traffic2"  vehsPerHour="1500" color="1,1,0"/> 
+  <flow id="flow3" beg="0" end="3000" route="traffic3"  vehsPerHour="1500" color="0,1,1"/> 
+  <flow id="flow4" beg="0" end="3000" route="traffic4"  vehsPerHour="1500" color="0,0,0"/> 
+</routes>
