@@ -2,10 +2,20 @@
   <route id="traffic1" edges="a1 a2 a3"/>
   <route id="traffic2" edges="b3 b2 b1"/>
   <route id="traffic3" edges="c1 c2 c3"/>
-  <route id="traffic4" edges="d3 d2 d1"/>
+  <route id="traffic4" edges="c1 c2 c3"/>
+  <route id="traffic5" edges="d3 d2 d1"/>
+  <route id="traffic6" edges="c1 585994911 b1"/>
+  <route id="traffic10" edges="a1 a2 c3"/>
+  <route id="traffic11" edges="a2 d2"/>
+  <route id="traffic12" edges="b3 d2"/>
   
-  <flow id="flow1" beg="0" end="3000" route="traffic1"  vehsPerHour="1500" color="0,1,0"/> 
-  <flow id="flow2" beg="0" end="3000" route="traffic2"  vehsPerHour="1500" color="1,1,0"/> 
+  <flow id="flow1" beg="0" end="3000" route="traffic1"  vehsPerHour="700" color="0,1,0"/> 
+  <flow id="flow2" beg="0" end="3000" route="traffic2"  vehsPerHour="800" color="1,1,0"/> 
   <flow id="flow3" beg="0" end="3000" route="traffic3"  vehsPerHour="1500" color="0,1,1"/> 
   <flow id="flow4" beg="0" end="3000" route="traffic4"  vehsPerHour="1500" color="0,0,0"/> 
+  <flow id="flow5" beg="0" end="3000" route="traffic5"  vehsPerHour="1500" color="0,1,0"/> 
+  <flow id="flow6" beg="0" end="3000" route="traffic6"  vehsPerHour="1500" color="1,1,0"/> 
+  <flow id="flow10" beg="0" end="3000" route="traffic10"  vehsPerHour="1500" color="0,0,0"/> 
+  <flow id="flow11" beg="0" end="3000" route="traffic11"  vehsPerHour="1500" color="1,1,1"/> 
+  <flow id="flow12" beg="0" end="3000" route="traffic12"  vehsPerHour="500" color="1,1,1"/> 
 </routes>
