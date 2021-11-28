@@ -1,4 +1,4 @@
-# YOUTUBE [# YOUTUBE [HOW TO BASIC TKINTER](https://www.youtube.com/watch?v=6wNetztNV10) ![logo](https://www.eclipse.org/sumo/images/logos/sumo-logo-white.svg)]
+# YOUTUBE [HOW TO BASIC TKINTER](https://www.youtube.com/watch?v=6wNetztNV10) ![logo](https://www.eclipse.org/sumo/images/logos/sumo-logo-white.svg)
 
 Bao gồm file rou.xml và file .sumocfg cơ bản 
 ********
